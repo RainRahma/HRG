@@ -55,3 +55,8 @@ li{
     font-weight: 100;
     line-height: 25px;
 }
+.main-section{
+    background-color: gray;
+    display: flex;
+    align-items: center;
+}
